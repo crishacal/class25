@@ -9,3 +9,4 @@ Displays each user with its ID, name, and email in a card-like layout.
 Responsive design with hover effects for better user interaction.
 Dark mode theme by default, with centered content and flexible spacing.
 
+<img width="1440" height="824" alt="class25" src="https://github.com/user-attachments/assets/1f39599b-75f4-4707-832c-23b4f2140310" />
